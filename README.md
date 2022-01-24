@@ -1,7 +1,7 @@
-## Hi there, I'm Ahsan - aka PYTHONISTA 🐍 
-#### Not a pro in Python, but wish to be!
+## Hi there, I'm Ahsan - aka PYTHONISTA 🔥🐍 
+#### Not a pro in Python, but wish to be! 🙂
 
-### A future Cyber Security Expert
+### A future Cyber Security Expert ✨❤️
 ---
 - 🔭 Studing at Habib University
 - 🌱 Work as a Full Stack Web Developer
