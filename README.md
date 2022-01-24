@@ -1,5 +1,6 @@
 <h2> Hi there, I'm Ahsan - aka PYTHONISTA 🔥🐍 </h2>
-#### Not a pro in Python, but wish to be! 🙂
+<h3> Not a pro in Python, but wish to be! 🙂</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">
 
 ### A future Cyber Security Expert ✨❤️
 ---
