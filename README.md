@@ -1,10 +1,8 @@
 ## Hi there, I'm Ahsan - aka PYTHONISTA 🐍 
 #### Not a pro in Python, but wish to be!
+
+### A future Cyber Security Expert
 ---
-
-### Beginner to Computer Science
-### Want to become a Cyber Security Expert
-
 - 🔭 Studing at Habib University
 - 🌱 Work as a fullstack Web Developer
 - 👨‍💻 Looking forward to solve Cyber World issues
