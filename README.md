@@ -4,7 +4,7 @@
 
 ### A future Cyber Security Expert ✨❤️
 ---
-- 🔭 Studing at Habib University
+- 🔭 Studying at Habib University
 - 🌱 Work as a Full Stack Web Developer
 - 👨‍💻 Looking forward to solve Cyber World issues
 - 🎯 2022 Goals: Contribute more to Open Source projects
