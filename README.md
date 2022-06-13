@@ -1,13 +1,12 @@
-<h2> Hi there, I'm Ahsan Azeemi - aka PYTHONISTA 🔥🐍 </h2>
+<h2> Hi there, I'm Ahsan Azeemi - aka PYTHONISTA </h2>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">
 
-### A future Cyber Security Expert ✨❤️
+### The Passionate Programmer
 ---
-- 🔭 Studying at Habib University
-- 🌱 Work as a Full Stack Web Developer
-- 👨‍💻 Looking forward to solve Cyber World issues
-- 🎯 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love programs on CLI instead of GUI! 
+- Studying at Habib University
+- Work as a Full Stack Web Developer
+- 2022 Goals: Contribute more to Open Source projects
+- Fun fact: I love programs on CLI instead of GUI! 
 
 ### Connect with me:
 
