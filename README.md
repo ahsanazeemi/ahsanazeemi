@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/xorahsan/xorahsan/main/original-min.gif)
+<p align="center"> ![logo](https://raw.githubusercontent.com/xorahsan/xorahsan/main/original-min.gif)</p>
 <h1 align="center">Hi, I'm a proud linux user!</h1>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xorahsan&label=Profile%20Views&color=b160e6&style=plastic" alt="xorahsan" /> </p> -->
